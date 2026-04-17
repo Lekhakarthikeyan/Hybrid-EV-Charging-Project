@@ -6,9 +6,9 @@ Hybrid renewable energy-based dynamic EV charging system using solar PV and duct
 This project presents a hybrid renewable energy-based dynamic charging system for electric vehicles (EVs). It integrates solar photovoltaic (PV) and ducted wind energy to enable continuous charging during vehicle motion, reducing dependency on stationary charging stations.
 
 ## 🚀 Objective
-- To enable on-the-go EV charging using renewable energy
-- To improve charging efficiency and reliability
-- To ensure battery safety using real-time monitoring
+- To enable on-the-go EV charging using renewable energy.
+- To improve charging efficiency and reliability.
+- To ensure battery safety using real-time monitoring.
 
 ## ⚙️ Technologies Used
 - Solar Photovoltaic System
